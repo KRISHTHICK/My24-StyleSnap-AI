@@ -1,0 +1,14 @@
+# 🎨 StyleSnap AI - Outfit Color Analyzer & Matcher
+
+A fashion AI tool that analyzes dominant colors from outfit images and suggests matching clothing or accessories.
+
+## 🧠 Features
+- Upload outfit photos
+- Extract dominant colors
+- Get outfit/accessory suggestions
+- Download PDF Lookbook
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
